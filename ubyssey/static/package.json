@@ -44,8 +44,8 @@
     "js-cookie": "^2.2.0",
     "keymaster": "^1.6.2",
     "lru-cache": "^2.7.0",
-    "react": "^15.3.2",
-    "react-dom": "^15.3.2",
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0",
     "react-textarea-autosize": "^2.5.1",
     "webpack": "^3.6.0"
   },

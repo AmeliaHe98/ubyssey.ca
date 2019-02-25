@@ -69,7 +69,7 @@ class Article extends React.Component {
   };
 
   setupGalleries = () => {
-      const gatherImages = function(gallery) {
+      const gatherImages = (gallery) => {
         var selector, trigger;
 
         if (gallery) {
